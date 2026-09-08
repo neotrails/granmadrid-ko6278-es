@@ -1,4 +1,4 @@
-EpicRush — Game Website (Ad-ready, Responsive, Age-gate)
+GameForge+ — Game Website (Ad-ready, Responsive, Age-gate)
 ==========================================================
 
 Start: index.html
